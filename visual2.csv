@@ -1,4 +1,4 @@
-student_name    ,Marks,Age ,Contact,Study_hours
+student_name       ,Marks,Age,Contact,Study_hours
        manas       ,30,14,678544667,4
        heena       ,50,15,764655445,6
          dev       ,60,17,556543645,7
